@@ -6,7 +6,7 @@ Additional Tools required:
 
 This repository contains all the codes required for Aspect Based Sentiment Analysis,  
 a.py -> gets sentences from XML file. Name the file you want to run on in a.py.
-Before running code download stanford corenlp server, extract it and place it inside corenlp-server directory. [Here is the link](http://nlp.stanford.edu/software/stanford-corenlp-full-2014-08-27.zip) 
+Before running code download stanford corenlp server, extract it and place it inside corenlp-server directory. [Here is the link](http://nlp.stanford.edu/software/stanford-corenlp-full-2014-08-27.zip)   You also need to install nltk_data. [Link](https://www.nltk.org/data.html).
 1. Run corenlp.py which comes with Stanford CoreNLP Parser,  
 2. Then in another terminal run client.py.
 3. Run aspect_term_extracter.py  
